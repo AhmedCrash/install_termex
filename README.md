@@ -10,4 +10,4 @@
  chmod +x install.sh
 
  
- bash install.sh.sh
+ bash install.sh
