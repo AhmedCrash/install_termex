@@ -4,10 +4,10 @@
  git clone https://github.com/AhmedCrash/install_termex.git
 
  
- cd Fix-Termux
+ cd install_termex
 
  
- chmod +x Fix-Termux.sh
+ chmod +x install.sh.sh
 
  
- bash Fix-Termux.sh
+ bash install.sh.sh
