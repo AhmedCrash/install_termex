@@ -7,7 +7,7 @@
  cd install_termex
 
  
- chmod +x install.sh.sh
+ chmod +x install.sh
 
  
  bash install.sh.sh
